@@ -6,3 +6,5 @@
 .venv
 venv
 venv/*
+*.mp4
+.DS_Store
